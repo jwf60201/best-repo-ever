@@ -1,2 +1,2 @@
 # best-repo-ever
-This is my do-nothing Playground branch 1
+This is my do-nothing Playground with conflicts resolved
